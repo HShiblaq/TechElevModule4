@@ -1,0 +1,15 @@
+.monospace {
+  font-family: Lucida Console, Courier, monospace;
+}
+
+#apiBtn, #player, #collectApi, #hideControl, #message {
+  display: inline-block;
+}
+
+.d-none {
+  display: none;
+}
+
+.d-inline-block {
+  display: inline-block;
+}

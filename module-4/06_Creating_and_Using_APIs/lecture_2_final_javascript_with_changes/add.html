@@ -1,0 +1,40 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New - Forms.Web</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+        integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<h2>New</h2>
+
+<form id="form" method="post" action="#">
+
+    <div>
+        <label for="Name">Name</label>
+        <input type="text" data-val="true" data-val-length="Name can be a max of 10 characters." data-val-length-max="10" data-val-required="*" id="Name" name="Name" value="" />
+  </div>
+
+    <div>
+        <label for="CountryCode">CountryCode</label>
+        <input type="text" data-val="true" data-val-required="The CountryCode field is required." id="CountryCode" name="CountryCode" value="" />
+ </div>
+    <div>
+        <label for="District">District</label>
+        <input type="text" data-val="true" data-val-required="The District field is required." id="District" name="District" value="" />
+ </div>
+    <div>
+        <label for="Population">Population</label>
+        <input type="number" data-val="true" data-val-required="The Population field is required." id="Population" name="Population" value="" />
+ </div>
+
+    <input type="submit" value="Add City" />
+</form>
+
+<script src="add.js"></script>
+</body>
+</html>

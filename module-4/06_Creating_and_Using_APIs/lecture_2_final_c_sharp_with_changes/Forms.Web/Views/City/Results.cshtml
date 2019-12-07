@@ -1,0 +1,57 @@
+﻿@model Forms.Web.Models.CitySearchModel
+
+@{
+    ViewData["Title"] = "Results";
+}
+
+<h2>Results</h2>
+
+<p>You searched for cities in (Country: @Model.CountryCode, District: @Model.District). Here is what we found.</p>
+
+<p>
+    <a asp-action="New">Create New City</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+               Name
+            </th>
+            <th>
+                Country Code
+            </th>
+            <th>
+                District
+            </th>
+            <th>
+               Population
+            </th>
+      
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Results) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountryCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.District)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Population)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

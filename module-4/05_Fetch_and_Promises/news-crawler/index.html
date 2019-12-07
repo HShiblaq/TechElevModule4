@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+    <link rel="shortcut icon" href="Paomedia-Small-N-Flat-News.ico" />
+    <!-- .ico file from http://www.iconarchive.com/search?q=news -->
+
+</head>
+
+<body>
+
+    <p id="news" class="monospace"></p>
+    <div id="controls" class="d-inline-block">
+        <audio controls loop id="player">
+            <source src="teletype.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Teletype sound file from https://www.freesfx.co.uk/sfx/teletype -->
+        <!-- 15830_1460490194.mp3 editied with Ocenaudio editor-->
+        <!-- Converted to .ogg file-->
+
+        <div id="collectApi">
+            <button id="apiBtn" class="btn"></button>
+        </div>
+
+        <!-- /////HELP MSG WHICH IS NOT DISPLAYED - CLASS D-NONE -->
+        <button id="help"> Help</button>
+    </div>
+
+    <div id="helpMessage" class="d-none" >
+        <p> You will need a key from <a href="http://newsapi.org">newsApi.org </a
+            >to run this news scroll.</p>
+    </div>
+
+    <input type="checkbox" id="hideControl">Hide Controls</checkbox>
+
+</body>
+
+
+
+</html>

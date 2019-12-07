@@ -1,0 +1,14 @@
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\bin\Debug\netcoreapp2.2\ShoppingListAPI.deps.json
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\bin\Debug\netcoreapp2.2\ShoppingListAPI.runtimeconfig.json
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\bin\Debug\netcoreapp2.2\ShoppingListAPI.runtimeconfig.dev.json
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\bin\Debug\netcoreapp2.2\ShoppingListAPI.dll
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\bin\Debug\netcoreapp2.2\ShoppingListAPI.pdb
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.csprojAssemblyReference.cache
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.csproj.CoreCompileInputs.cache
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.RazorAssemblyInfo.cache
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.RazorAssemblyInfo.cs
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.AssemblyInfoInputs.cache
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.AssemblyInfo.cs
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.RazorTargetAssemblyInfo.cache
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.dll
+C:\Users\halas\halashiblaq-c-sharp-material\module-4\06_Creating_and_Using_APIs\student-exercise\shopping-api-dotnet\ShoppingListAPI\obj\Debug\netcoreapp2.2\ShoppingListAPI.pdb

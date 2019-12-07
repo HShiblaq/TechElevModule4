@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Shopping List</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+    <div id="app">
+        <div class="shopping-list">
+            <header>
+                <h1>My Shopping List</h1>
+                <a href="#" class="addButton">
+                    Add Item <i class="fas fa-plus"></i>
+                </a>    
+            </header>
+            <ul>
+              <template id="shopping-list-item-template">
+              <li>
+                <i class="far fa-times-circle"></i>
+              </li>
+              </template>
+              <template id="shopping-add-item-template">
+                <li class="addItemForm">
+                    <input type="text" class="addItemInput" name="addItem" id="addItem" />
+                </li>
+              </template>
+            </ul>
+          </div>
+    </div>
+    <script src="assets/js/groceries.js"></script>
+</body>
+</html>
